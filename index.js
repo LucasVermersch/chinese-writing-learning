@@ -12,8 +12,8 @@ const error_template = ({ status, message }) => "<!DOCTYPE html>\n<html lang=\"e
 
 let read = null;
 
-set_paths({"base":"","assets":""});
-set_version("1669584584842");
+set_paths({"base":"/chinese-writing-learning","assets":""});
+set_version("1669585109341");
 
 let default_protocol = 'https';
 
@@ -56,7 +56,7 @@ export class Server {
 			app_template,
 			app_template_contains_nonce: false,
 			error_template,
-			version: "1669584584842"
+			version: "1669585109341"
 		};
 	}
 
