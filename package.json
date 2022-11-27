@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"gh-pages": "^4.0.0",
 		"hanzi-to-pinyin": "^1.86.0",
 		"hanzi-writer": "^3.4.0",
 		"pinyin-string": "^1.0.0"
